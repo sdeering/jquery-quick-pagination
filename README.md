@@ -2,6 +2,7 @@ jQuery Quick Pagination Plugin
 =======================
 
 Article: http://www.jquery4u.com/tutorials/jquery-quick-pagination-list-items/
+
 Demo: http://www.jquery4u.com/demos/jquery-quick-pagination/
 
 Features

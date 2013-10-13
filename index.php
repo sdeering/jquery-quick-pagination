@@ -6,21 +6,6 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 	<script type="text/javascript" src="../script.js"></script>
 
-
-      <!-- BuySellAds Ad Code -->
-  <link rel="stylesheet" href="../bsa_styles.css" />
-  <script type="text/javascript" src="../bsa_script.js"></script>
-  <script type="text/javascript">
-  (function(){
-    var bsa = document.createElement('script');
-       bsa.type = 'text/javascript';
-       bsa.async = true;
-       bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
-    (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
-  })();
-  </script>
-  <!-- End BuySellAds Ad Code -->
-
 <script type="text/javascript" src="http://www.jquery4u.com/demos/jquery-quick-pagination/js/jquery.quick.pagination.min.js"></script>
 
 <link rel="stylesheet" type="text/css" href="../styles.css">
