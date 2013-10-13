@@ -6,6 +6,8 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 	<script type="text/javascript" src="../script.js"></script>
 
+
+
 <script type="text/javascript" src="http://www.jquery4u.com/demos/jquery-quick-pagination/js/jquery.quick.pagination.min.js"></script>
 
 <link rel="stylesheet" type="text/css" href="../styles.css">
@@ -37,7 +39,7 @@ $(document).ready(function() {
 
     <p>
 <a class="seelivedemo" href="http://jquery4u.com/tutorials/jquery-quick-pagination/">Tutorial</a>
-<a class="seelivedemo" href="http://www.jquery4u.com/demos/jquery-quick-pagination/jquery-quick-pagination.zip">Download</a>
+<a class="seelivedemo" href="https://github.com/sdeering/jquery-quick-pagination">Download</a>
 </p>
 
 <!-- plugin html -->
