@@ -20,5 +20,8 @@ Usage
 =======================
  $("ul.pagination1").quickPagination();
 
+License
+=======================
+https://jquery.org/license/
 
  Thanks! =)
