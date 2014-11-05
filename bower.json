@@ -1,0 +1,24 @@
+{
+  "name": "jquery-quick-pagination",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sdeering/jquery-quick-pagination",
+  "authors": [
+    "sdeering <samdeering@hotmail.com>"
+  ],
+  "description": "Quick Jquery Pagination on lists",
+  "main": "js/jquery.quick.pagination.min.js",
+  "keywords": [
+    "pagination",
+    "pager",
+    "jquery",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
