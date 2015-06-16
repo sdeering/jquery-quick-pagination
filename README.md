@@ -12,7 +12,6 @@ Features
 - You can specify the number of items to display for each page
 - Very lightweight, only 3kb!
 - I’ve tested in on every browser and it is very stable
-
 - It currently only works on lists (but you can use it on divs you would have to put them in li tags).
 - It currently doesn’t have back and next buttons.
 
@@ -24,4 +23,4 @@ License
 =======================
 https://jquery.org/license/
 
- Thanks! =)
+Thanks! =)
