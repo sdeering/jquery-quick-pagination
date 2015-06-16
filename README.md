@@ -17,7 +17,9 @@ Features
 
 Usage
 =======================
-```$("ul.pagination1").quickPagination();```
+```
+$("ul.pagination1").quickPagination();
+```
 
 License
 =======================
